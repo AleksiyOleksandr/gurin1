@@ -1,0 +1,50 @@
+body {
+    background-color: gray;
+}
+
+
+ P {
+    color: aqua;
+}
+
+header{
+    background-color: gray;
+}
+footer p {
+    color: black
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+    margin: 5px;
+}
+
+nav {
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid rgba(206, 90, 125, 0.753);
+    border-radius: 10px;
+}
+
+h2 {
+    color: rgb(255, 255, 255)
+}
+
+footer img {
+    height: 250px;
+}
+
+table {
+    border: 5px solid red;
+    border-collapse: collapse;
+}
+
+td {
+    border: 5px solid red;
+    padding: 1px;
+}
+
+header a {
+
+}
